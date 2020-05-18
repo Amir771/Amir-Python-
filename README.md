@@ -1,1 +1,1 @@
-# Amir-Python-
+# Репозиторий для обучения Selenium Python
